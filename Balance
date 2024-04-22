@@ -1,0 +1,3 @@
+ checkBalance() {
+    console.log(`Account balance for ${this.owner}: ${this.balance}`);
+  }
